@@ -81,9 +81,7 @@ class Subfiles implements Files
 
 public class Project {
 	   public static void main(String[] args) {
-		   System.out.println(".............WELCOME TO...........");
-			System.out.println(" Company Lockers Pvt. Ltd. ");
-			System.out.println("   Iam Srivardhan\n   Full Stock Developer\n   DXC Technologies");
+		   System.out.println(".............WELCOME TO..........\n Company Lockers Pvt. Ltd.\n   Iam Srivardhan\n   Full Stock Developer\n   DXC Technologies");
 		   Scanner scan = new Scanner(System.in);
 		   String name;
 			int age;
